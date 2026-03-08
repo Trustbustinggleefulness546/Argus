@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Config File
+app/config.yaml
+
+# AI Code Editor / Code CLI
+.trae/
+.claude/
+.codex/
+.agent/
