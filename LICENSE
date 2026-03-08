@@ -9,12 +9,25 @@ purposes only, subject to the following conditions:
 1. NON-COMMERCIAL USE ONLY
    The Software may not be used, in whole or in part, for any commercial
    purpose without prior written permission from the copyright holder.
+   This restriction applies to ALL derivative works and modified versions.
    "Commercial purpose" includes but is not limited to:
-   - Integrating the Software into a paid product or service
-   - Using the Software to provide CAPTCHA-solving services for profit
-   - Selling, licensing, or sublicensing the Software for monetary gain
+   - Integrating the Software or any derivative thereof into a paid product or service
+   - Using the Software or any derivative thereof to provide CAPTCHA-solving services for profit
+   - Selling, licensing, or sublicensing the Software or any derivative thereof for monetary gain
+   - Any secondary development (fork, modification, or extension) used for commercial purposes,
+     even if substantially rewritten or rebranded
 
-2. COMMERCIAL LICENSING
+2. NO ENDORSEMENT OR PROMOTION
+   The name of this Software, "Argus", and the name "AmethystDev Labs" may NOT be used
+   to endorse, promote, advertise, or otherwise represent any product, service, organization,
+   campaign, or activity — whether commercial or non-commercial, for-profit or non-profit,
+   public interest or otherwise — without prior explicit written permission from the copyright holder.
+   This includes but is not limited to:
+   - Using the Software's name or logo in promotional materials
+   - Claiming affiliation with or endorsement by AmethystDev Labs
+   - Using the Software's reputation to solicit donations, sponsorships, or public support
+
+3. COMMERCIAL LICENSING
    Organizations or individuals wishing to use the Software for commercial
    purposes may obtain a separate commercial license by contacting:
 
@@ -23,26 +36,26 @@ purposes only, subject to the following conditions:
    Alt   : lonely_4@qq.com
    GitHub: https://github.com/AmethystDev-Labs
 
-3. ATTRIBUTION
+4. ATTRIBUTION
    Any use, modification, or distribution of the Software must retain this
    copyright notice and provide clear attribution to the original author.
    Academic publications using this Software must cite the associated research
    and acknowledge AmethystDev Labs.
 
-4. REDISTRIBUTION
+5. REDISTRIBUTION
    Redistributions of source code must retain this license in full.
    Redistributions in binary form must reproduce this license in documentation.
 
-5. MODIFICATIONS
+6. MODIFICATIONS
    Modified versions of the Software must be clearly marked as such and must
    not be misrepresented as the original Software.
 
-6. RESEARCH & EDUCATION EXEMPTION
+7. RESEARCH & EDUCATION EXEMPTION
    Use of the Software for academic research, education, and personal
    learning is explicitly permitted and encouraged, provided it is not
-   for commercial gain.
+   for commercial gain and does not violate the NO ENDORSEMENT clause above.
 
-7. NO WARRANTY
+8. NO WARRANTY
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
@@ -51,7 +64,7 @@ purposes only, subject to the following conditions:
    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
    OTHER DEALINGS IN THE SOFTWARE.
 
-8. TERMINATION
+9. TERMINATION
    Any violation of the terms of this license automatically terminates your
    rights under it. AmethystDev Labs reserves the right to pursue legal
    remedies for violations.
