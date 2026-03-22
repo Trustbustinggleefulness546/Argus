@@ -1,7 +1,7 @@
 [project]
-name = "captchavision"
+name = "argus"
 version = "0.1.0"
-description = "Add your description here"
+description = "Argus"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

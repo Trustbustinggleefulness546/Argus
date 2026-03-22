@@ -174,7 +174,7 @@ def _build_logger() -> logging.Logger:
 
 
 log = _build_logger()
-app = FastAPI(title="CaptchaVision API", version="0.1.0")
+app = FastAPI(title="Argus API", version="0.1.0")
 
 
 def _error_payload(code: str, message: str, details: str | None = None) -> dict[str, Any]:

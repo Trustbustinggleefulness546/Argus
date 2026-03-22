@@ -1,4 +1,6 @@
-# CaptchaVision
+# Argus
+
+Argus，取名自希腊神话里的百眼巨人。
 
 一个用于验证码识别的 Python 项目，支持两种调用方式：
 
@@ -16,7 +18,7 @@ uv sync
 ## 目录说明
 
 ```text
-CaptchaVision/
+Argus/
 ├─ app/                  # 核心业务代码
 │  ├─ main.py            # CLI 实际实现
 │  ├─ api_server.py      # API 实际实现
